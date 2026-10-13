@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nama": "Tumbler Stainless 600ml",
+    "category": "Lifestyle",
+    "harga": 75000,
+    "stock": 15,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=800&q=80",
+    "description": "Tumbler stainless steel 600ml dengan desain minimalis, cocok untuk kuliah dan aktivitas sehari-hari."
+  },
+  {
+    "id": 2,
+    "nama": "Workshirt JTI Premium",
+    "category": "Pakaian",
+    "harga": 125000,
+    "stock": 10,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80",
+    "description": "Workshirt berbahan nyaman dengan desain sederhana untuk kegiatan kampus dan organisasi."
+  },
+  {
+    "id": 3,
+    "nama": "Hoodie Basic Campus",
+    "category": "Pakaian",
+    "harga": 149000,
+    "stock": 8,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=800&q=80",
+    "description": "Hoodie casual berbahan lembut dan nyaman digunakan untuk aktivitas sehari-hari."
+  },
+  {
+    "id": 4,
+    "nama": "Totebag Canvas",
+    "category": "Lifestyle",
+    "harga": 55000,
+    "stock": 20,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=800&q=80",
+    "description": "Totebag canvas serbaguna untuk membawa laptop, buku, dan perlengkapan kuliah."
+  },
+  {
+    "id": 5,
+    "nama": "Mechanical Keyboard Compact",
+    "category": "Elektronik",
+    "harga": 399000,
+    "stock": 6,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80",
+    "description": "Keyboard compact dengan desain modern untuk menunjang kegiatan belajar dan coding."
+  },
+  {
+    "id": 6,
+    "nama": "Wireless Mouse Silent",
+    "category": "Elektronik",
+    "harga": 99000,
+    "stock": 12,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=800&q=80",
+    "description": "Mouse wireless dengan klik senyap dan desain ergonomis untuk penggunaan harian."
+  },
+  {
+    "id": 7,
+    "nama": "Notebook Campus A5",
+    "category": "Alat Tulis",
+    "harga": 35000,
+    "stock": 25,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1531346680769-a1d79b57de5c?auto=format&fit=crop&w=800&q=80",
+    "description": "Notebook ukuran A5 dengan kertas nyaman untuk mencatat tugas dan kegiatan perkuliahan."
+  },
+  {
+    "id": 8,
+    "nama": "Tumbler Sport 750ml",
+    "category": "Lifestyle",
+    "harga": 89000,
+    "stock": 9,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1550507992-eb63ffee0847?auto=format&fit=crop&w=800&q=80",
+    "description": "Botol minum 750ml dengan desain sporty dan kapasitas besar untuk aktivitas luar ruangan."
+  }
+]
